@@ -1,16 +1,18 @@
 # data_project_template
-This will act as a template for all of my future projects. I will clone the repo, disconnect from this repo, delete unnecessary files, and then create a new one for the relevant project at hand.
+This repository acts as a reusable template for all of my future data projects. To use it, I clone the repo, then disconnect and assign it to a new project repo, where I delete unnecessary files and customize the structure before starting. This maintains clarity, proper logging of important information, and replicability in my workflow.
 
+Key information about this project: 
+```
+[...]
+```
 
-Key information about this project: [...]
-
-
-Replicability guide: [...]
-
-
+Replicability guide: 
+```
+[...]
+```
 
 Folder structure: 
-
+```
 proj/
  ├── README.md
  ├── data/
@@ -28,9 +30,9 @@ proj/
  ├── figs/                ← plots and graphics
  └── docs/                ← documentation, reports, manuscripts
  └── temp/                ← transient files (optional)
- 
+ ```
 
-
-Notes for myself: [...]
+Notes for myself: [...] 
+```
 - Be sure to include metadata in your file names. (Example: YYYYMMDD_ProjectID_Sample_Description_v01.csv)
-- 
+```
